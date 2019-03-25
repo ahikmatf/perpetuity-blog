@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Boy with Silver Wings <agney@outlook.in>",
   "dependencies": {
+    "@now/static-build": "^0.4.18",
     "babel-plugin-styled-components": "^1.10.0",
     "gatsby": "^2.0.76",
     "gatsby-image": "^2.0.20",
@@ -46,17 +47,13 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\"",
-    "deploy": "gatsby build && git add . && git commit -m \"build: the gatsby static files\" && git push origin master" 
+    "deploy": "gatsby build && git add . && git commit -m \"build: the gatsby static files\" && git push origin master",
+    "now-build": "npm run build"
   },
   "devDependencies": {
     "husky": "^1.2.1",
     "lint-staged": "^8.1.0",
     "prettier": "^1.15.2"
-  },
-  "git": { 
-    "scripts": { 
-      "pre-push": "surge --project ./public --domain perpetuity.surge.sh" 
-    } 
   },
   "husky": {
     "hooks": {
