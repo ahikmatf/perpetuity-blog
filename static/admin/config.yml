@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ahikmatf/web-hikmat-strapi
+  repo: ahikmatf/web-hikmat-gatsby
 
 media_folder: static/assets
 public_folder: assets
