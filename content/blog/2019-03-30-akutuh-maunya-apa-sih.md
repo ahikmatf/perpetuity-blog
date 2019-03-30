@@ -1,7 +1,7 @@
 ---
 id: 4
 title: Akutuh Maunya Apa Sih?
-date: 2019-03-30T08:53:13.579Z
+date: 2019-03-25T08:53:13.579Z
 ---
 Jadi ceritanya, saya itu masih mencari saya maunya ngapain selama menjalani hidup di dunia ini, tapi setidaknya, sekarang udah mulai kebayang mau ngapain. Kisah hidupnya gimana? Dan gimana ceritanya bisa mulai kebayang?
 
