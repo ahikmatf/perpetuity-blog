@@ -61,8 +61,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-blog-starter`,
-        short_name: `starter`,
+        name: `Blognya Hikmat`,
+        short_name: `Blognya Hikmat`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
