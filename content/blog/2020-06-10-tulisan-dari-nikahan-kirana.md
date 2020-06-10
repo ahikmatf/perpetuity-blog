@@ -1,6 +1,6 @@
 ---
 id: 9
-title: tulisan dari nikahan kirana
+title: Tulisan dari Nikahan Kirana
 date: 2020-06-10T00:38:49.174Z
 ---
 **fault**
