@@ -1,5 +1,5 @@
 ---
-id: 9
+id: 12
 title: Tulisan dari Nikahan Kirana
 date: 2020-06-10T00:38:49.174Z
 ---
